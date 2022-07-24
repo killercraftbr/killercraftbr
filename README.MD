@@ -38,7 +38,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/killercraftbr/killercraftbr/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/killercraftbr/killercraftbr/blob/output/snake.yml" alt="Snake animation" />
 
 ###
 
