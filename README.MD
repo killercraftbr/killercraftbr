@@ -38,10 +38,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/killercraftbr/killercraftbr/blob/output/snake.yml" alt="Snake animation" />
-
-###
-
 <p align="center">visitas:</p>
 
 ###
