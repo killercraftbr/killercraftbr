@@ -1,4 +1,4 @@
-<h1 align="left">Ola! sou Elias, um programador iniciante, quero muito entrar no mercado de trabalho como programador, e estou investindo pra isso!</h1>
+<h1 align="left">Ola! sou Elias, um programador que irá ser fullstack, no momento estou aprendendo php e flutter, e c#, php para web, flutter para mobile e c# para sistemas, um dia eu serei um bom dev// english: hello, i am jose elias i am a dev who will be fullstack one day, in this moment i still learning about php, flutter and c#, php for web, flutter for mobile, and c# for sistems, one day i will be a good dev</h1>
 
 ###
 
